@@ -1,3 +1,4 @@
 .directory
 .*
 !.gitignore
+node_modules/
